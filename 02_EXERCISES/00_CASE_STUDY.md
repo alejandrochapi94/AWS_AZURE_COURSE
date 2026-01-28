@@ -67,20 +67,31 @@ Ejercicios de Aplicación (Casos de Estudio)
 
 Una tienda de ropa online que quiere vender y gestionar inventario con catálogo dinámico, pero no quiere invertir en tecnología.
 
+
 ¿Qué modelo aplicarías?
+
+    -elegiria el modelo saas ya que el cliente no desea invertir en tecnologia y equipos.
 
 Una startup de catering que quiere desarrollar su propio app de pedidos y rutas de entrega personalizadas, con capacidad de escalar en temporada alta.
 
 ¿Qué modelo encaja mejor?
 
+    -eligiria un iaas ya que pordriamos escalar de manera automatica como por ejemplo una oferta de un con compras masivas el servidor no se caeria sino que asignaria mas recursos.
+
 Un centro de yoga que quiere organizar clases online y presenciales con reservas y pagos, sin preocuparse por la infraestructura técnica.
 
 ¿Qué modelo aplicarías?
+
+    -depende si el cliente desea la web seria un saas si desea solo la infrastucctura tectina sera un paas
 
 Una empresa de carpintería local que desea almacenar sus archivos de diseño y software de planificación en su propio servidor dentro del taller por seguridad.
 
 ¿Qué modelo aplica?
 
+on-site
+
 Una tienda de productos ecológicos que quiere tener su web de comercio electrónico con carrito, gestión de clientes y campañas de fidelización sin programar nada.
 
 ¿Qué modelo elegirías?
+
+ -saas
