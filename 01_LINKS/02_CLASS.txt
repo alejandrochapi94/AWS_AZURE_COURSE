@@ -1,0 +1,16 @@
+Computación en la nube
+qué es latencia
+Modelos de servicio IaaS, PaaS, SaaS, On-site
+casos de estudio donde se aplica cada uno.
+
+
+Manejo de Shell de UBUNTU
+Conocimientos previos de Redes
+-ipv4 vs ipv6
+dns, subredes, puertos tcp/udp y protocolos de comunicación  
+ip públicas vs ip privadas
+
+configuración de vpc (virtual private cloud)
+implementación de security groups y network acls
+conexiones seguras mediante vpn o direct connect
+
