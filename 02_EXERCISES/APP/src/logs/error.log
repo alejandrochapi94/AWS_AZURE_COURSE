@@ -1,0 +1,18 @@
+{"level":"error","message":"Error al crear usuario en BD: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:52:56.714Z"}
+{"level":"error","message":"Error al crear usuario: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:52:56.716Z"}
+{"level":"error","message":"Error al crear usuario en BD: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:52:57.883Z"}
+{"level":"error","message":"Error al crear usuario: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:52:57.884Z"}
+{"level":"error","message":"Error al crear usuario en BD: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:53:06.028Z"}
+{"level":"error","message":"Error al crear usuario: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:53:06.029Z"}
+{"level":"error","message":"Error al crear usuario en BD: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:53:11.686Z"}
+{"level":"error","message":"Error al crear usuario: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:53:11.687Z"}
+{"level":"error","message":"Error al crear usuario en BD: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:53:11.845Z"}
+{"level":"error","message":"Error al crear usuario: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:53:11.845Z"}
+{"level":"error","message":"Error al crear usuario en BD: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:53:12.009Z"}
+{"level":"error","message":"Error al crear usuario: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:53:12.010Z"}
+{"level":"error","message":"Error al crear usuario en BD: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:53:12.167Z"}
+{"level":"error","message":"Error al crear usuario: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:53:12.167Z"}
+{"level":"error","message":"Error MongoDB","timestamp":"2026-01-28T20:56:15.095Z"}
+{"level":"error","message":"Error MongoDB","timestamp":"2026-01-28T20:56:15.105Z"}
+{"level":"error","message":"Error al crear usuario en BD: E11000 duplicate key error collection: practica.users index: email_1 dup key: { email: \"juan@email.com\" }","timestamp":"2026-01-28T21:06:46.596Z"}
+{"level":"error","message":"Error al crear usuario: E11000 duplicate key error collection: practica.users index: email_1 dup key: { email: \"juan@email.com\" }","timestamp":"2026-01-28T21:06:46.596Z"}

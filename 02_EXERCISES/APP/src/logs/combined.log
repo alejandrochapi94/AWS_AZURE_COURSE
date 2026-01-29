@@ -1,0 +1,45 @@
+{"level":"info","message":"Hello World","timestamp":"2026-01-28T20:04:10.558Z"}
+{"level":"info","message":"Hello World","timestamp":"2026-01-28T20:04:20.521Z"}
+{"level":"info","message":"Hello World","timestamp":"2026-01-28T20:11:45.055Z"}
+{"level":"info","message":"Hello World","timestamp":"2026-01-28T20:12:14.674Z"}
+{"level":"info","message":"Hello World","timestamp":"2026-01-28T20:12:17.589Z"}
+{"level":"info","message":"Hello World","timestamp":"2026-01-28T20:12:42.037Z"}
+{"level":"info","message":"Hello World","timestamp":"2026-01-28T20:14:04.985Z"}
+{"level":"info","message":"Hello World","timestamp":"2026-01-28T20:14:30.004Z"}
+{"level":"info","message":"Hello World","timestamp":"2026-01-28T20:15:14.545Z"}
+{"level":"info","message":"Hello World","timestamp":"2026-01-28T20:16:43.644Z"}
+{"level":"info","message":"Hello World","timestamp":"2026-01-28T20:16:56.448Z"}
+{"level":"info","message":"Hello World","timestamp":"2026-01-28T20:17:23.340Z"}
+{"level":"info","message":"Usuario creado","timestamp":"2026-01-28T20:44:28.712Z"}
+{"level":"error","message":"Error al crear usuario en BD: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:52:56.714Z"}
+{"level":"error","message":"Error al crear usuario: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:52:56.716Z"}
+{"level":"error","message":"Error al crear usuario en BD: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:52:57.883Z"}
+{"level":"error","message":"Error al crear usuario: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:52:57.884Z"}
+{"level":"error","message":"Error al crear usuario en BD: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:53:06.028Z"}
+{"level":"error","message":"Error al crear usuario: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:53:06.029Z"}
+{"level":"error","message":"Error al crear usuario en BD: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:53:11.686Z"}
+{"level":"error","message":"Error al crear usuario: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:53:11.687Z"}
+{"level":"error","message":"Error al crear usuario en BD: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:53:11.845Z"}
+{"level":"error","message":"Error al crear usuario: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:53:11.845Z"}
+{"level":"error","message":"Error al crear usuario en BD: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:53:12.009Z"}
+{"level":"error","message":"Error al crear usuario: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:53:12.010Z"}
+{"level":"error","message":"Error al crear usuario en BD: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:53:12.167Z"}
+{"level":"error","message":"Error al crear usuario: Operation `users.insertOne()` buffering timed out after 10000ms","timestamp":"2026-01-28T20:53:12.167Z"}
+{"level":"error","message":"Error MongoDB","timestamp":"2026-01-28T20:56:15.095Z"}
+{"level":"error","message":"Error MongoDB","timestamp":"2026-01-28T20:56:15.105Z"}
+{"level":"info","message":"MongoDB conectado","timestamp":"2026-01-28T20:56:52.502Z"}
+{"level":"info","message":"MongoDB conectado","timestamp":"2026-01-28T20:56:52.527Z"}
+{"level":"info","message":"Usuario creado en BD: juan@email.com","timestamp":"2026-01-28T20:57:26.112Z"}
+{"level":"info","message":"Usuario creado exitosamente: juan@email.com","timestamp":"2026-01-28T20:57:26.113Z"}
+{"level":"error","message":"Error al crear usuario en BD: E11000 duplicate key error collection: practica.users index: email_1 dup key: { email: \"juan@email.com\" }","timestamp":"2026-01-28T21:06:46.596Z"}
+{"level":"error","message":"Error al crear usuario: E11000 duplicate key error collection: practica.users index: email_1 dup key: { email: \"juan@email.com\" }","timestamp":"2026-01-28T21:06:46.596Z"}
+{"level":"info","message":"MongoDB conectado","timestamp":"2026-01-28T21:07:48.061Z"}
+{"level":"info","message":"MongoDB conectado","timestamp":"2026-01-28T21:07:48.086Z"}
+{"level":"info","message":"Usuario creado en BD: juan@email.com","timestamp":"2026-01-28T21:07:52.365Z"}
+{"level":"info","message":"Usuario creado exitosamente: juan@email.com","timestamp":"2026-01-28T21:07:52.365Z"}
+{"level":"info","message":"Usuario creado en BD: juan@email.com","timestamp":"2026-01-28T21:08:41.751Z"}
+{"level":"info","message":"Usuario creado exitosamente: juan@email.com","timestamp":"2026-01-28T21:08:41.752Z"}
+{"level":"info","message":"MongoDB conectado","timestamp":"2026-01-29T18:13:28.434Z"}
+{"level":"info","message":"MongoDB conectado","timestamp":"2026-01-29T18:13:28.479Z"}
+{"level":"info","message":"Usuario creado en BD: juan@email.com","timestamp":"2026-01-29T18:14:07.499Z"}
+{"level":"info","message":"Usuario creado exitosamente: juan@email.com","timestamp":"2026-01-29T18:14:07.500Z"}
