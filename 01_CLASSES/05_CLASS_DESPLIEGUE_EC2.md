@@ -6,6 +6,15 @@ Información para lanzar una instancia EC2 con NGINX PM2 Y NVM
 Conectarte a tu instancia   
 `ssh -i "[nombrearhcivo].pem" ubuntu@[ip-estatica]`
 
+(En caso de error de REMOTE HOST IDENTIFICATION HAS CHANGED!)
+- Este error se debe a que estamos usando una huella (host key) para ese IP, y ahora estamos intentando conectar a otra máquina (o la misma, pero reinstalada) con una huella distinta. En AWS debemos tener cuidado cuando terminamos una instancia y luego usas otra con el mismo IP (o cambió el host key).
+
+Si ocurre ejecutamos el siguiente código para eliminar la huella anterior:
+
+`ssh-keygen -R 13.39.95.222`
+
+Y el problema se habrá solucionado.
+
 Actualizar repositorios mas recientes   
 `sudo apt-get update -y`
 
