@@ -75,3 +75,21 @@ Ejecuta los siguientes comandos en la ruta de tu proyecto node
 `pm2 start ./location/index.js`
 
 `pm2 startup`
+
+Va a imprimir una línea tipo
+
+`sudo env PATH=$PATH:/usr/bin pm2 startup systemd -u ubuntu --hp /home/ubuntu`
+
+Copia y ejecuta exactamente esa línea y con eso el servidor ya está registrado en el path de PM2
+
+## PASO FINAL
+
+Guardar la lista de procesos (para que se “restaure” al reiniciar)
+
+`pm2 save`
+
+## IMPORTANTE REINICIAR LA INSTANCIA EC2 PARA GUARDAR LOS CAMBIOS
+
+Para verificar que se agregó a la lista
+
+`pm2 list`
